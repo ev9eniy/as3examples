@@ -1,0 +1,16 @@
+#Tue Feb 15 13:48:37 MSK 2011
+com.powerflasher.fdt.core.CompatiblePlayers=External_SWF_Viewer\:Browser\:Standalone_Flash_Player
+com.powerflasher.fdt.core.CompilerArguments=-static-link-runtime-shared-libraries\=true\n-target-player\={playerVersion}\n-library-path+\="{flexSDK}/frameworks/locale/en_US"\n-keep-as3-metadata+\=Inject -keep-as3-metadata+\=PostConstruct -define\=CONFIG\:\:Debug,true\n-default-size\=550,400
+com.powerflasher.fdt.core.DefaultOutputFolder=bin
+com.powerflasher.fdt.core.DefaultPlayer=External_SWF_Viewer
+com.powerflasher.fdt.core.Language=AS3
+com.powerflasher.fdt.core.PassClasspath=true
+com.powerflasher.fdt.core.PassMainclass=true
+com.powerflasher.fdt.core.PassRsls=true
+com.powerflasher.fdt.core.PassSwcs=true
+com.powerflasher.fdt.core.PlayerVersion=10.1
+com.powerflasher.fdt.core.ProjectTypeHint=AS 3
+com.powerflasher.fdt.core.Runtime=Flash_Player
+com.powerflasher.fdt.core.SdkName=Adobe Flex SDK
+com.powerflasher.fdt.core.useProjectFormatterSettings=false
+eclipse.preferences.version=1

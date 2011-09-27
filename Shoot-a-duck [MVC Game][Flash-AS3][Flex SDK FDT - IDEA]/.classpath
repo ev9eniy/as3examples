@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Stage"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/Adobe Flex SDK (player 10.0)"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="bin"/>
+	<classpathentry kind="src" path="libs"/>
+	<classpathentry kind="output" path="bin/production"/>
+</classpath>

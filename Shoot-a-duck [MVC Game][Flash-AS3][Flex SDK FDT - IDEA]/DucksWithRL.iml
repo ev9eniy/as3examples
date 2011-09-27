@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module classpath="eclipse" classpath-dir="$MODULE_DIR$" type="Flex" version="4">
+  <component name="Flex.Build.Configuration">
+    <option name="DO_BUILD" value="true" />
+    <option name="USE_CUSTOM_CONFIG_FILE_FOR_TESTS" value="true" />
+    <option name="MAIN_CLASS" value="Game" />
+    <option name="OUTPUT_FILE_NAME" value="main.swf" />
+    <option name="TARGET_PLAYER_VERSION" value="10.0.0" />
+    <option name="ADDITIONAL_COMPILER_OPTIONS" value="-keep-as3-metadata+=Inject -keep-as3-metadata+=PostConstruct" />
+    <option name="VERSION" value="3" />
+  </component>
+</module>
+
